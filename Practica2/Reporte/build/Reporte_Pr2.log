@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.21)  14 JUN 2021 03:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.21)  14 JUN 2021 03:27
 entering extended mode
 **c:/Users/bjbp2/Downloads/Pr2/Practica2/Reporte/Reporte_Pr2.tex
 (c:/Users/bjbp2/Downloads/Pr2/Practica2/Reporte/Reporte_Pr2.tex
@@ -235,22 +235,33 @@ File: Codigo1.PNG Graphic file (type png)
 <use Codigo1.PNG>
 Package pdftex.def Info: Codigo1.PNG  used on input line 74.
 (pdftex.def)             Requested size: 345.0pt x 119.15544pt.
- [2 <./Codigo1.PNG>] (c:\Users\bjbp2\Downloads\Pr2\Practica2\Reporte\build\Reporte_Pr2.aux
+<RTLVPT1.PNG, id=14, 1318.9275pt x 636.12656pt>
+File: RTLVPT1.PNG Graphic file (type png)
+<use RTLVPT1.PNG>
+Package pdftex.def Info: RTLVPT1.PNG  used on input line 79.
+(pdftex.def)             Requested size: 345.0pt x 166.38876pt.
+ [2 <./Codigo1.PNG>]
+<SimulacionPT1.PNG, id=22, 733.99219pt x 370.38374pt>
+File: SimulacionPT1.PNG Graphic file (type png)
+<use SimulacionPT1.PNG>
+Package pdftex.def Info: SimulacionPT1.PNG  used on input line 84.
+(pdftex.def)             Requested size: 345.0pt x 174.09734pt.
+ [3 <./RTLVPT1.PNG> <./SimulacionPT1.PNG>] (c:\Users\bjbp2\Downloads\Pr2\Practica2\Reporte\build\Reporte_Pr2.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 4439 strings out of 481212
- 66111 string characters out of 2905973
- 317448 words of memory out of 3000000
- 19995 multiletter control sequences out of 15000+200000
+ 4451 strings out of 481212
+ 66317 string characters out of 2905973
+ 316448 words of memory out of 3000000
+ 20005 multiletter control sequences out of 15000+200000
  540565 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,9n,44p,288b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/bjbp2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/bjbp2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/bjbp2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/bjbp2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/bjbp2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/bjbp2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/bjbp2/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on c:\Users\bjbp2\Downloads\Pr2\Practica2\Reporte\build\Reporte_Pr2.pdf (2 pages, 473188 bytes).
+Output written on c:\Users\bjbp2\Downloads\Pr2\Practica2\Reporte\build\Reporte_Pr2.pdf (3 pages, 532963 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
+ 50 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
