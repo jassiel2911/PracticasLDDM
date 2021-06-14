@@ -1,0 +1,24 @@
+|Segunda_Parte
+E[0] => X.IN1
+E[0] => Y.IN0
+E[0] => Y.IN0
+E[0] => Z.IN1
+E[0] => Y.IN1
+E[1] => X.IN1
+E[1] => Y.IN1
+E[1] => Y.IN1
+E[1] => Z.IN1
+E[1] => Y.IN1
+E[2] => X.IN0
+E[2] => Y.IN0
+E[2] => Z.IN0
+E[2] => Y.IN0
+E[3] => X.IN1
+E[3] => Y.IN1
+E[3] => Z.IN1
+E[3] => Y.IN1
+X <= X.DB_MAX_OUTPUT_PORT_TYPE
+Y <= Y.DB_MAX_OUTPUT_PORT_TYPE
+Z <= Z.DB_MAX_OUTPUT_PORT_TYPE
+
+

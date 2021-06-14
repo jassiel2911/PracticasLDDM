@@ -1,0 +1,18 @@
+--Entrada basica
+library ieee;
+use ieee.std_logic_1164.all;
+
+--Desarrollo de la entidad
+entity codvhd1 is
+	port(E:in bit_vector(3 downto 0);
+			X, Y, Z: out bit);
+end;
+
+architecture behavioural of codvhd1 is
+begin
+
+X<= (E(3) or E(2) or E(1) or E(0));
+Y<= ((E(3) and E(2)) and ( E(0) or E(1)) or (E(1) and E(0)) and (E(2) or E(3)) or (not E(3) and not E(2) and not E(1) and not E(0)));
+Z<= not(E(3) xor E(2) xor E(1) xor E(0));
+			
+end;
