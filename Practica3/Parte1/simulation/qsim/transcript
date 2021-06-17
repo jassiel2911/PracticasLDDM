@@ -1,0 +1,24 @@
+# do anodo.do 
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module anodo
+# 
+# Top level modules:
+# 	anodo
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module anodo_vlg_sample_tst
+# -- Compiling module anodo_vlg_check_tst
+# -- Compiling module anodo_vlg_vec_tst
+# 
+# Top level modules:
+# 	anodo_vlg_vec_tst
+# vsim -L cycloneive_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate -c -t 1ps -novopt work.anodo_vlg_vec_tst 
+# Loading work.anodo_vlg_vec_tst
+# Loading work.anodo
+# Loading cycloneive_ver.cycloneive_io_obuf
+# Loading cycloneive_ver.cycloneive_io_ibuf
+# Loading cycloneive_ver.cycloneive_lcell_comb
+# Loading work.anodo_vlg_sample_tst
+# Loading work.anodo_vlg_check_tst
+# Simulation passed !
+# ** Note: $finish    : anodo.vt(275)
+#    Time: 1 us  Iteration: 0  Instance: /anodo_vlg_vec_tst/tb_out

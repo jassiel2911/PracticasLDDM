@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\bjbp2\Downloads\Pr2\Practica3\Parte1\simulation\qsim
+vanodo
+Z1 IURdKnU5NYkme1MjMYFBg13
+Z2 V2>3RP:Ud1]ZTHYZKGkK743
+Z3 dC:\Users\bjbp2\Downloads\Pr2\Practica3\Parte1\simulation\qsim
+Z4 w1623887817
+Z5 8anodo.vo
+Z6 Fanodo.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 O5lKB]?5eWcCe4VgS@zgl3
+!s85 0
+Z10 !s108 1623887826.498000
+Z11 !s107 anodo.vo|
+Z12 !s90 -work|work|anodo.vo|
+!s101 -O0
+vanodo_vlg_check_tst
+!i10b 1
+!s100 ^MmAfTY;RbA>4C_:R[m5l1
+I]YS:75b@6VW@b4[VaG0Mn1
+VjF;Jm;?:0lS2PPW;i3AlM1
+R3
+R4
+Z13 8anodo.vt
+Z14 Fanodo.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z15 !s108 1623887827.371000
+Z16 !s107 anodo.vt|
+Z17 !s90 -work|work|anodo.vt|
+!s101 -O0
+R8
+vanodo_vlg_sample_tst
+!i10b 1
+!s100 R<OZemE5:lN_jVZCLZB8T2
+I6d<cN<lMAbS0:ne7nSgVX2
+VGBFJMGBlK;;AUi425V=Td1
+R3
+R4
+R13
+R14
+L0 29
+R7
+r1
+!s85 0
+31
+R15
+R16
+R17
+!s101 -O0
+R8
+vanodo_vlg_vec_tst
+!i10b 1
+!s100 ?COA6PFGcBnL1g^MbDPhF1
+I[FHZMIJ]KmTO3:A@G64aN3
+VXcfl>iCFHFSCPnVXUmk:n2
+R3
+R4
+R13
+R14
+L0 279
+R7
+r1
+!s85 0
+31
+R15
+R16
+R17
+!s101 -O0
+R8
