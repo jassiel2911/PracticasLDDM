@@ -2,9 +2,10 @@ library ieee;
 use ieee.std_logic_1164.all;
 
 entity anodo is
-	port(x: in std_logic;
+	 port(x: in std_logic;
 			y: in std_logic_vector(2 downto 0);
-			z: out std_logic_vector(7 downto 0));
+			z: out std_logic_vector(7 downto 0);
+			display : out std_logic);
 end;
 
 architecture behavioural of anodo is

@@ -188,19 +188,19 @@ VCCIO7                       : 117       : power  :                   : 2.5V    
 GND                          : 118       : gnd    :                   :         :           :                
 RESERVED_INPUT_WITH_WEAK_PULLUP : 119       :        :                   :         : 7         :                
 RESERVED_INPUT_WITH_WEAK_PULLUP : 120       :        :                   :         : 7         :                
-z[1]                         : 121       : output : 2.5 V             :         : 7         : Y              
+z[6]                         : 121       : output : 2.5 V             :         : 7         : Y              
 VCCIO7                       : 122       : power  :                   : 2.5V    : 7         :                
 GND                          : 123       : gnd    :                   :         :           :                
-z[6]                         : 124       : output : 2.5 V             :         : 7         : Y              
-z[2]                         : 125       : output : 2.5 V             :         : 7         : Y              
-z[5]                         : 126       : output : 2.5 V             :         : 7         : Y              
-z[7]                         : 127       : output : 2.5 V             :         : 7         : Y              
-z[0]                         : 128       : output : 2.5 V             :         : 8         : Y              
-z[3]                         : 129       : output : 2.5 V             :         : 8         : Y              
+z[1]                         : 124       : output : 2.5 V             :         : 7         : Y              
+z[5]                         : 125       : output : 2.5 V             :         : 7         : Y              
+z[2]                         : 126       : output : 2.5 V             :         : 7         : Y              
+z[0]                         : 127       : output : 2.5 V             :         : 7         : Y              
+z[7]                         : 128       : output : 2.5 V             :         : 8         : Y              
+z[4]                         : 129       : output : 2.5 V             :         : 8         : Y              
 VCCIO8                       : 130       : power  :                   : 2.5V    : 8         :                
 GND                          : 131       : gnd    :                   :         :           :                
-z[4]                         : 132       : output : 2.5 V             :         : 8         : Y              
-RESERVED_INPUT_WITH_WEAK_PULLUP : 133       :        :                   :         : 8         :                
+z[3]                         : 132       : output : 2.5 V             :         : 8         : Y              
+display                      : 133       : output : 2.5 V             :         : 8         : Y              
 VCCINT                       : 134       : power  :                   : 1.2V    :           :                
 RESERVED_INPUT_WITH_WEAK_PULLUP : 135       :        :                   :         : 8         :                
 RESERVED_INPUT_WITH_WEAK_PULLUP : 136       :        :                   :         : 8         :                
