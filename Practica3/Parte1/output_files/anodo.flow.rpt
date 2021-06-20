@@ -1,5 +1,9 @@
 Flow report for anodo
+<<<<<<< HEAD
 Sun Jun 20 00:15:12 2021
+=======
+Wed Jun 16 21:05:00 2021
+>>>>>>> c4932a9bc600c15bba32a8d87febafbba31f26ec
 Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
 
 
@@ -40,7 +44,11 @@ applicable agreement for further details.
 +--------------------------------------------------------------------------------------+
 ; Flow Summary                                                                         ;
 +------------------------------------+-------------------------------------------------+
+<<<<<<< HEAD
 ; Flow Status                        ; Successful - Sun Jun 20 00:15:11 2021           ;
+=======
+; Flow Status                        ; Successful - Wed Jun 16 21:04:59 2021           ;
+>>>>>>> c4932a9bc600c15bba32a8d87febafbba31f26ec
 ; Quartus II 64-Bit Version          ; 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition ;
 ; Revision Name                      ; anodo                                           ;
 ; Top-level Entity Name              ; anodo                                           ;
@@ -64,12 +72,17 @@ applicable agreement for further details.
 +-------------------+---------------------+
 ; Option            ; Setting             ;
 +-------------------+---------------------+
+<<<<<<< HEAD
 ; Start date & time ; 06/20/2021 00:14:57 ;
+=======
+; Start date & time ; 06/16/2021 21:04:08 ;
+>>>>>>> c4932a9bc600c15bba32a8d87febafbba31f26ec
 ; Main task         ; Compilation         ;
 ; Revision Name     ; anodo               ;
 +-------------------+---------------------+
 
 
+<<<<<<< HEAD
 +---------------------------------------------------------------------------------------------------------------------+
 ; Flow Non-Default Global Settings                                                                                    ;
 +-------------------------------------+--------------------------------+---------------+-------------+----------------+
@@ -87,6 +100,25 @@ applicable agreement for further details.
 ; PARTITION_NETLIST_TYPE              ; SOURCE                         ; --            ; --          ; Top            ;
 ; PROJECT_OUTPUT_DIRECTORY            ; output_files                   ; --            ; --          ; --             ;
 +-------------------------------------+--------------------------------+---------------+-------------+----------------+
+=======
++----------------------------------------------------------------------------------------------------------------------+
+; Flow Non-Default Global Settings                                                                                     ;
++-------------------------------------+---------------------------------+---------------+-------------+----------------+
+; Assignment Name                     ; Value                           ; Default Value ; Entity Name ; Section Id     ;
++-------------------------------------+---------------------------------+---------------+-------------+----------------+
+; COMPILER_SIGNATURE_ID               ; 268525808732903.162389544711208 ; --            ; --          ; --             ;
+; EDA_GENERATE_FUNCTIONAL_NETLIST     ; On                              ; --            ; --          ; eda_simulation ;
+; EDA_OUTPUT_DATA_FORMAT              ; Verilog Hdl                     ; --            ; --          ; eda_simulation ;
+; EDA_SIMULATION_TOOL                 ; ModelSim-Altera (Verilog)       ; <None>        ; --          ; --             ;
+; MAX_CORE_JUNCTION_TEMP              ; 85                              ; --            ; --          ; --             ;
+; MIN_CORE_JUNCTION_TEMP              ; 0                               ; --            ; --          ; --             ;
+; NOMINAL_CORE_SUPPLY_VOLTAGE         ; 1.2V                            ; --            ; --          ; --             ;
+; PARTITION_COLOR                     ; 16764057                        ; --            ; --          ; Top            ;
+; PARTITION_FITTER_PRESERVATION_LEVEL ; PLACEMENT_AND_ROUTING           ; --            ; --          ; Top            ;
+; PARTITION_NETLIST_TYPE              ; SOURCE                          ; --            ; --          ; Top            ;
+; PROJECT_OUTPUT_DIRECTORY            ; output_files                    ; --            ; --          ; --             ;
++-------------------------------------+---------------------------------+---------------+-------------+----------------+
+>>>>>>> c4932a9bc600c15bba32a8d87febafbba31f26ec
 
 
 +-------------------------------------------------------------------------------------------------------------------------------+
@@ -94,12 +126,21 @@ applicable agreement for further details.
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
 ; Module Name               ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
+<<<<<<< HEAD
 ; Analysis & Synthesis      ; 00:00:01     ; 1.0                     ; 4623 MB             ; 00:00:02                           ;
 ; Fitter                    ; 00:00:04     ; 1.0                     ; 4890 MB             ; 00:00:04                           ;
 ; Assembler                 ; 00:00:01     ; 1.0                     ; 4531 MB             ; 00:00:01                           ;
 ; TimeQuest Timing Analyzer ; 00:00:02     ; 1.0                     ; 4577 MB             ; 00:00:02                           ;
 ; EDA Netlist Writer        ; 00:00:00     ; 1.0                     ; 4492 MB             ; 00:00:00                           ;
 ; Total                     ; 00:00:08     ; --                      ; --                  ; 00:00:09                           ;
+=======
+; Analysis & Synthesis      ; 00:00:10     ; 1.0                     ; 4623 MB             ; 00:00:03                           ;
+; Fitter                    ; 00:00:16     ; 1.0                     ; 4880 MB             ; 00:00:07                           ;
+; Assembler                 ; 00:00:02     ; 1.0                     ; 4531 MB             ; 00:00:02                           ;
+; TimeQuest Timing Analyzer ; 00:00:05     ; 1.0                     ; 4577 MB             ; 00:00:03                           ;
+; EDA Netlist Writer        ; 00:00:00     ; 1.0                     ; 4492 MB             ; 00:00:01                           ;
+; Total                     ; 00:00:33     ; --                      ; --                  ; 00:00:16                           ;
+>>>>>>> c4932a9bc600c15bba32a8d87febafbba31f26ec
 +---------------------------+--------------+-------------------------+---------------------+------------------------------------+
 
 
@@ -108,11 +149,11 @@ applicable agreement for further details.
 +---------------------------+------------------+-----------+------------+----------------+
 ; Module Name               ; Machine Hostname ; OS Name   ; OS Version ; Processor type ;
 +---------------------------+------------------+-----------+------------+----------------+
-; Analysis & Synthesis      ; DESKTOP-ULT4ERK  ; Windows 7 ; 6.2        ; x86_64         ;
-; Fitter                    ; DESKTOP-ULT4ERK  ; Windows 7 ; 6.2        ; x86_64         ;
-; Assembler                 ; DESKTOP-ULT4ERK  ; Windows 7 ; 6.2        ; x86_64         ;
-; TimeQuest Timing Analyzer ; DESKTOP-ULT4ERK  ; Windows 7 ; 6.2        ; x86_64         ;
-; EDA Netlist Writer        ; DESKTOP-ULT4ERK  ; Windows 7 ; 6.2        ; x86_64         ;
+; Analysis & Synthesis      ; DESKTOP-UPH9IHS  ; Windows 7 ; 6.2        ; x86_64         ;
+; Fitter                    ; DESKTOP-UPH9IHS  ; Windows 7 ; 6.2        ; x86_64         ;
+; Assembler                 ; DESKTOP-UPH9IHS  ; Windows 7 ; 6.2        ; x86_64         ;
+; TimeQuest Timing Analyzer ; DESKTOP-UPH9IHS  ; Windows 7 ; 6.2        ; x86_64         ;
+; EDA Netlist Writer        ; DESKTOP-UPH9IHS  ; Windows 7 ; 6.2        ; x86_64         ;
 +---------------------------+------------------+-----------+------------+----------------+
 
 

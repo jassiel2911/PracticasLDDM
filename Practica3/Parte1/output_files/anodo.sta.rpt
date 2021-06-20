@@ -1,5 +1,9 @@
 TimeQuest Timing Analyzer report for anodo
+<<<<<<< HEAD
 Sun Jun 20 00:15:10 2021
+=======
+Wed Jun 16 21:04:57 2021
+>>>>>>> c4932a9bc600c15bba32a8d87febafbba31f26ec
 Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
 
 
@@ -655,7 +659,11 @@ No dedicated SERDES Receiver circuitry present in device or used in design
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit TimeQuest Timing Analyzer
     Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+<<<<<<< HEAD
     Info: Processing started: Sun Jun 20 00:15:08 2021
+=======
+    Info: Processing started: Wed Jun 16 21:04:52 2021
+>>>>>>> c4932a9bc600c15bba32a8d87febafbba31f26ec
 Info: Command: quartus_sta anodo -c anodo
 Info: qsta_default_script.tcl version: #1
 Warning (20028): Parallel compilation is not licensed and has been disabled
@@ -704,8 +712,14 @@ Info (332102): Design is not fully constrained for setup requirements
 Info (332102): Design is not fully constrained for hold requirements
 Info: Quartus II 64-Bit TimeQuest Timing Analyzer was successful. 0 errors, 5 warnings
     Info: Peak virtual memory: 4577 megabytes
+<<<<<<< HEAD
     Info: Processing ended: Sun Jun 20 00:15:10 2021
     Info: Elapsed time: 00:00:02
     Info: Total CPU time (on all processors): 00:00:02
+=======
+    Info: Processing ended: Wed Jun 16 21:04:57 2021
+    Info: Elapsed time: 00:00:05
+    Info: Total CPU time (on all processors): 00:00:03
+>>>>>>> c4932a9bc600c15bba32a8d87febafbba31f26ec
 
 
