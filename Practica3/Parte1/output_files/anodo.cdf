@@ -4,7 +4,7 @@ JedecChain;
 	DefaultMfr(6E);
 
 	P ActionCode(Cfg)
-		Device PartName(EP4CE6E22) Path("C:/Users/bjbp2/Downloads/Pr2/Practica3/Parte1/output_files/") File("anodo.sof") MfrSpec(OpMask(1));
+		Device PartName(EP4CE6E22) Path("C:/Users/bjbp2/Documents/PracticasLDDM/Practica3/Parte1/output_files/") File("anodo.sof") MfrSpec(OpMask(1));
 
 ChainEnd;
 

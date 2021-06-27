@@ -13,6 +13,7 @@ architecture behavioural of anodo is
 begin
 
 	V <= x&y;
+	display <= '0';
 	
 	with V select
 	z<= x"03" when x"0",
